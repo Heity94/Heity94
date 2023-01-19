@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Science | Operational Excellence | Project Management**
 
-- 📫 How to reach me **https://www.linkedin.com/in/philippheitmann/**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/philippheitmann/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
