@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">A recent Data-Science Bootcamp graduate from Le Wagon Berlin</h3>
 
-- 🔭 I’m currently working on [a project to predict the upcoming german federal election using poll and Twitter data](https://delphi-forecast.herokuapp.com/)
+- 🔭 I’m currently working on [Augmented Hierarchical Shrinkage](https://github.com/Heity94/AugmentedHierarchicalShrinkage) a post-hoc regularization method for random forests which incroporates both sample size and node-wise degree of overfitting.
 
-- 💬 Ask me about **Operational Excellence | Project Management**
+- 💬 Ask me about **Data Science | Operational Excellence | Project Management**
 
 - 📫 How to reach me **https://www.linkedin.com/in/philippheitmann/**
 
